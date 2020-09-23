@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=gaseousMultiple()
+comment1.params=random
+comment1.target=void\ setQuestions(int)
+comment2.params=
+comment2.target=java.lang.String\ getOption1()
+comment3.params=
+comment3.target=java.lang.String\ getOption2()
+comment4.params=
+comment4.target=java.lang.String\ getOption3()
+comment5.params=
+comment5.target=java.lang.String\ getOption4()
+numComments=6

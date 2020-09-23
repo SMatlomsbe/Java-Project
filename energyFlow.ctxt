@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=randomNum
+comment0.target=energyFlow(int)
+comment1.params=
+comment1.target=int\ getRandomNum()
+comment2.params=ran
+comment2.target=java.lang.String\ getQuestions(int)
+numComments=3

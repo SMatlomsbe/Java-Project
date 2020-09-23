@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=randomNum
+comment0.target=photosynthesisSolutions(int)
+comment1.params=
+comment1.target=int\ getRandomNum()
+comment2.params=randomNum
+comment2.target=java.lang.String\ getMyphotosynthesisAnswer(int)
+numComments=3
